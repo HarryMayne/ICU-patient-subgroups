@@ -13,7 +13,11 @@ We require the following datasets:
     * Glasgow Coma Scale (gcs.csv). **NOTE:** this is not the same as first_day_gcs
 
 ## Required Directory Structure
-Once you have downloaded MIMIC-IV you should put the <u>contents</u> of the `mimic-iv-v2.2' directory into the `data' directory. Derived files from the MIMIC-IV Code Repository/GoogleBigQuery should be put into the directory called `queried_data'. The finished set up should look like this:
-![directory_setup](https://github.com/HarryMayne/Identifying-Intensive-Care-Unit-Patient-Subgroup/assets/115154632/7fda6c76-8e56-4638-8984-f417661840f4)
-Note that the license is the MIMIC-IV licsense.
+Once you have downloaded MIMIC-IV you should put the contents of the `mimic-iv-v2.2' directory into the `data' directory. Derived files from the MIMIC-IV Code Repository/GoogleBigQuery should be put into the directory called `queried_data'.
 
+The finished set up should look like the image below. Note that the license is the MIMIC-IV licsense.
+
+![directory_setup](https://github.com/HarryMayne/Identifying-Intensive-Care-Unit-Patient-Subgroup/assets/115154632/7fda6c76-8e56-4638-8984-f417661840f4)
+
+
+<img src="https://github.com/HarryMayne/Identifying-Intensive-Care-Unit-Patient-Subgroup/assets/115154632/7fda6c76-8e56-4638-8984-f417661840f4" alt="directory_setup" width="500" style="display:block; margin-left:auto; margin-right:auto"/>
