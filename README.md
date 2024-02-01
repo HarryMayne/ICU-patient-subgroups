@@ -17,7 +17,4 @@ Once you have downloaded MIMIC-IV you should put the contents of the `mimic-iv-v
 
 The finished set up should look like the image below. Note that the license is the MIMIC-IV licsense.
 
-![directory_setup](https://github.com/HarryMayne/Identifying-Intensive-Care-Unit-Patient-Subgroup/assets/115154632/7fda6c76-8e56-4638-8984-f417661840f4)
-
-
-<img src="https://github.com/HarryMayne/Identifying-Intensive-Care-Unit-Patient-Subgroup/assets/115154632/7fda6c76-8e56-4638-8984-f417661840f4" alt="directory_setup" width="500" style="display:block; margin-left:auto; margin-right:auto"/>
+<img src="https://github.com/HarryMayne/Identifying-Intensive-Care-Unit-Patient-Subgroup/assets/115154632/7fda6c76-8e56-4638-8984-f417661840f4" alt="directory_setup" width="300" style="display:block; margin-left:auto; margin-right:auto"/>
