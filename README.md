@@ -1,5 +1,4 @@
-# Identifying Intensive Care Unit Patient Subgroup
-Code repository for the paper "The Generalisability of Unsupervised Learning Approaches to Identify Intensive Care Patient Subgroup"
+# Code repository for the paper "Unsupervised learning approaches to identify ICU patient subgroups: Do results generalise?"
 
 ## Data requirements
 Since the MIMIC-IV data is confidential, we cannot share the data used for the project. Users of this code must first get access the data and then put it into the relevant directories. The code is designed that there is minimal effort required once the data is sourced.
