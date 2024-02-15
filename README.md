@@ -19,7 +19,9 @@ The finished set up should look like the image below. Note that the LICENSE.txt 
 <img src="https://github.com/HarryMayne/Identifying-Intensive-Care-Unit-Patient-Subgroup/assets/115154632/7fda6c76-8e56-4638-8984-f417661840f4" alt="directory_setup" width="200" style="display:block; margin-left:auto; margin-right:auto"/>
 
 ## Generating the cleaned dataset 
-To generate the dataset for clustering, you only need to run one file. This is `data_cleaning.ipynb`. This will create a csv file called `cleaned_data.csv' in the data directory. It is a long notebook and can take a while to run depending on your compute. The returned dataset contains all of the recreated features for all individuals. 
+To generate the dataset for clustering, you only need to run one file. This is `data_cleaning.ipynb`. This will create three csv files in the data directory: `total_mimiciv_cohort.csv` which is all 73,181 ICU stays in the cleaned data, `random_sample.csv`, which is the sample of 5,000 patients randomly drawn from the total cohort (note the same random seed as in the paper) and `remaining_data.csv`, which is the remainder after the random sample are removed. We used this dataset for testing the difference between the random sample and the remaining data.
+
+It is a long notebook and can take a while to run depending on your compute.
 
 ## Citation
 If you wish to cite this in future research, please cite using this BibTeX:
