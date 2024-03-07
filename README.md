@@ -1,4 +1,6 @@
-# Code repository for the paper "Unsupervised learning approaches to identify ICU patient subgroups: Do results generalise?"
+# Unsupervised Learning Approaches for Identifying ICU Patient Subgroups: Do Results Generalise?
+
+Find the paper here: https://arxiv.org/abs/2403.02945
 
 ## Data requirements
 Since the MIMIC-IV data is confidential, we cannot share the data used for the project. Users of this code must first get access the data and then put it into the relevant directories. The code is designed that there is minimal effort required once the data is sourced.
