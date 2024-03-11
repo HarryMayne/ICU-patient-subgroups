@@ -14,7 +14,7 @@ We require the following datasets:
     * Glasgow Coma Scale (gcs.csv). NOTE: this is not the same as first_day_gcs
 
 ## Required directory structure
-Once you have downloaded MIMIC-IV you should put the contents of the `mimic-iv-v2.2' directory into the `data' directory. Derived files from the MIMIC-IV Code Repository/GoogleBigQuery should be put into the directory called `queried_data'.
+Once you have downloaded MIMIC-IV, you should put the contents of the `mimic-iv-v2.2' directory into the `data' directory. Derived files from the MIMIC-IV Code Repository/GoogleBigQuery should be put into the directory called `queried_data'.
 
 The finished set up should look like the image below. Note that the LICENSE.txt and CHANGELOG.txt are part of the MIMIC-IV contents.
 
